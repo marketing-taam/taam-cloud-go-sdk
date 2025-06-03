@@ -2,7 +2,7 @@
 
 <a href="https://pkg.go.dev/github.com/taamsoftadmin/taam-cloud-go-sdk"><img src="https://pkg.go.dev/badge/github.com/taamsoftadmin/taam-cloud-go-sdk.svg" alt="Go Reference"></a>
 
-The Taam Cloud Go library provides convenient access to [the Taam Cloud REST
+The [Taam Cloud](https://taam.cloud/) Go library provides convenient access to [the Taam Cloud REST
 API](https://docs.taam-cloud.com) from applications written in Go. The full API of this library can be found in [api.md](api.md).
 
 It is generated with [Stainless](https://www.stainless.com/).
@@ -394,6 +394,7 @@ This package generally follows [SemVer](https://semver.org/spec/v2.0.0.html) con
 We take backwards-compatibility seriously and work hard to ensure you can rely on a smooth upgrade experience.
 
 We are keen for your feedback; please open an [issue](https://www.github.com/taamsoftadmin/taam-cloud-go-sdk/issues) with questions, bugs, or suggestions.
+we welcome all the suggestion through [emails](mailto:support@taam.cloud) or the [platform](https://app.taam.cloud/) support pannel.
 
 ## Contributing
 
